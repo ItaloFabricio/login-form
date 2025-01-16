@@ -1,7 +1,5 @@
 
-![login-2](https://github.com/user-attachments/assets/5d8f51f0-6071-4523-8955-49c4dfe0ef03)
-- Exemplo de mensagem de erro ao clicar em entrar com os campos vazios.
-
+![Gravando-2025-01-16-163530](https://github.com/user-attachments/assets/bec47618-7bc3-49bc-ac32-42101da59a31)
 
 # 💻 Formulário de login
 
