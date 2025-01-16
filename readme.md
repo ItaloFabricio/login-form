@@ -1,30 +1,12 @@
-# Formulário de login
+# 💻 Formulário de login
 
-Tela de login funcional desenvolvido como parte de um processo seletivo da AVATI. Ele foi construído com HTML, CSS e JavaScript para validar campos de e-mail e senha, exibir mensagens de erro e simular um envio bem-sucedido ou falho.
+Tela de login funcional desenvolvido como parte de um processo seletivo da AVATI. Ele foi construído com HTML, CSS e JavaScript para validar campos de e-mail e senha, exibir mensagens de erro e simular um envio bem-sucedido navegando para a página Home.
 
-## Requisitos da Tela de Login
-
-## Disposição
-
-Campos para:
-
-- Nome de usuário (e-mail)
-
-- Senha
-
-- Botão "Entrar"
-
-- Exibição de mensagens de erro para campos vazios ou inválidos.
-
-- Design básico, mas funcional:
-
-  - Utiliza a cor #e9f035 para botões e detalhes.
-
-  - Sem frameworks avançados, apenas CSS ou bibliotecas leves como Bootstrap.
-
-## Funcionalidades
+## ✨ Funcionalidades
 
 Validação de Campos:
+
+- Campos vazios exibem mensagens de erro.
 
 - O campo de e-mail aceita apenas endereços válidos.
 
@@ -39,3 +21,24 @@ Simulação de envio:
 - Quando os campos forem válidos, ao clicar em "Entrar":
   
   - Vai para a página Home
+
+## 🧪 Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
+
+## 🚀 Como Executar o Projeto Localmente
+1. Clone o repositório
+2. Abra o arquivo index.html no navegador:
+
+ - Clique duas vezes no arquivo index.html, ou
+
+ - Utilize um servidor local para abrir o projeto:
+  
+  - ### Com Visual Studio Code:
+   1. Certifique-se de ter a extensão Live Server instalada.
+   2. Clique com o botão direito no arquivo index.html e selecione Open with Live Server.
+
+---
+
+<p align="center">Desenvolvido com 💜 por Italo Fabrício</p>
