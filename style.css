@@ -144,7 +144,6 @@ textarea:focus, input:focus{
     justify-content: center;
     gap: 16px;
     margin: 0 auto;
-    width: 500px;
     height: 100vh;
     overflow: hidden;
 }
@@ -156,6 +155,16 @@ textarea:focus, input:focus{
 .home h1 {
     font-size: 32px;
     margin: 0;
+}
+
+@media screen and (max-width: 770px) {
+    .home h1 {
+        font-size: 20px;
+    }
+
+    .home-img img {
+        width: 200px;
+    }
 }
 
 .home p {
