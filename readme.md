@@ -1,3 +1,7 @@
+
+![login-2](https://github.com/user-attachments/assets/5d8f51f0-6071-4523-8955-49c4dfe0ef03)
+
+
 # 💻 Formulário de login
 
 Tela de login funcional desenvolvido como parte de um processo seletivo da AVATI. Ele foi construído com HTML, CSS e JavaScript para validar campos de e-mail e senha, exibir mensagens de erro e simular um envio bem-sucedido navegando para a página Home.
