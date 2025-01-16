@@ -1,5 +1,6 @@
 
 ![login-2](https://github.com/user-attachments/assets/5d8f51f0-6071-4523-8955-49c4dfe0ef03)
+- Exemplo de mensagem de erro ao clicar em entrar com os campos vazios.
 
 
 # 💻 Formulário de login
