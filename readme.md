@@ -21,3 +21,21 @@ Campos para:
   - Utiliza a cor #e9f035 para botões e detalhes.
 
   - Sem frameworks avançados, apenas CSS ou bibliotecas leves como Bootstrap.
+
+## Funcionalidades
+
+Validação de Campos:
+
+- O campo de e-mail aceita apenas endereços válidos.
+
+- O campo de senha exige no mínimo 6 caracteres.
+
+Mensagens de Erro:
+
+- Campos vazios ou inválidos exibem mensagens em tempo real.
+
+Simulação de envio:
+
+- Quando os campos forem válidos, ao clicar em "Entrar":
+  
+  - Vai para a página Home
